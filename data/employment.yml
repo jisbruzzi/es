@@ -1,96 +1,45 @@
-name: Work Experience
+name: Experiencia Laboral
 source:
   - prof: Frontend-oriented software engineer
-    place: Entropy offshore development center (Remote)
-    time: Since Aug. 2021
+    place: Entropy offshore development center (Remoto)
+    time: Desde Ago. 2021
     intro: |
-      I am working as a frontend software developer while also carrying out some backend tasks.
-    projects: 
-        - name: 'Vehicle marketing company'
-          content: |
-            This is a stablished startup from the USA that is improving their product. My tasks:
-            - Improve UI code quality significatively
-            - Some general backend work
-            
-            **Technologies:** sqlalchemy, react, AWS, react-query, spring framework.
-  - prof: Software Engineer
-    place: Freelance (Remote)
-    time: Sep. 2020 to Jul. 2021
+      Me desempeño como desarrollador web (frontend), pero también realizo tareas de backend.
+  - prof: Desarrollador independiente
+    place: Freelance (Remoto)
+    time: Sep. 2020 a Jul. 2021
     intro: |
-      MVP for different industries. During this time I created 2 projects from nothing (including CI/CD, infrastructure, architecture):
+      Desarrollé de forma completa software para 2 clientes. Esto incluye pipelines CI/CD, infraestructura, testing automático, desarrollo full-stack y gestión y control del proyecto.
     projects: 
-        - name: 'Project: NDA: Nutrición en Acción'
+        - name: 'NDA: Nutrición en Acción'
           content: |
-            Nutrition Suite. Main tasks:
-            - Rewrite the application using newer technologies that were easier to maintain, while
-            keeping the previous database.
-            - Build the testing pipeline and suite, Gitlab for CI
-            - Fully committed to the principles of the Agile, with constant communication and
-            delivery of value
-            My main achievement was the extensive testing. Given the large number of screens and
-            user stories supported, and how critical the software is for the functioning of NDA, the
-            application has an extensive test suite that is run constantly and assures that no bugs
-            reach the users.
+            Se desarrolló todo el software de la empresa usando principios ágiles: una aplicación de celulares, sistema de gestión de pacientes y un portal web.
             
-            **Technologies:** python, flask, sqlalchemy, flask-admin, react, Gatsby, MaterialUI, vuejs, quasar, firebase, AWS.
-        - name: 'Project: Zonia Music'
+            **Tecnologías:** python, flask, sqlalchemy, flask-admin, react, Gatsby, MaterialUI, vuejs, quasar, firebase, AWS.
+        - name: 'Zonia Music'
           content: |
-            Music streaming platform that allows fans to contribute to artists through an innovative monetization model. Main tasks:
-            - Design and implementation of frontend architecture for a new website.
-            - Design and implementation of backend architecture for a new website.
-            - Integration with MercadoPago’s payment suite.
+            Plataforma de colaboración musical que se basa en un modelo innovador de apoyo a artistas.
             
-            **Technologies:** django, django rest framework, wagtail admin, react, tailwind, css, Google Cloud Run, firebase.
+            **Tecnologías:** django, django rest framework, wagtail admin, react, tailwind, css, Google Cloud Run, firebase.
 
-  - prof: Software Engineer
+  - prof: Desarrollador d eSoftware
     place: C&S Argentina. Buenos Aires, Argentina
-    time: Nov. 2018 to Sep. 2020
+    time: Nov. 2018 a Sep. 2020
     intro: |
       Full-service provider of technology consulting, software design and development services. During this time I participated in the following projects:
     projects:
-      - name: 'Argentine Government Project'
+      - name: 'Proyecto para el Estado Nacional'
         content: |
-          Hiring suite for government providers and licitations management system. Main tasks:
-          - I was in charge of fixing bugs and refactoring technical debt.
-          - I contributed to the design of the software development process of a specific project.
-          - Software design and implementation of a medium-sized, independent module.
-          - Write several functional documents.
+          Desarrollo full-stack en tencnologías legacy, de una aplicación crítica para la administración pública.
 
-          **Technologies:** C#, ASP.NET webforms, ASP.NET MVC, GIT, bootstrap, SQL server, NHibernate
-      - name: Confidential Project
+          **Tecnologías:** C#, ASP.NET webforms, ASP.NET MVC, GIT, bootstrap, SQL server, NHibernate
+      - name: Proyecto confidencial
         content: |
-          Large size application. Main tasks executed in the project:
-          - Bugs fixing and technical debt refactoring.
-          - Research, design and implementation of a software development process that was specific to that project.
-          - Write some functional documents for new functionalities.
+          **Tecnologías:** Java, spring framework, bootstrap, SQL server.
 
-          **Technologies:** Java, spring framework, bootstrap, SQL server.
-
-  - prof: Machine Learning Developer
+  - prof: Machine Learning
     place: Ayi & Asociados. Bs As, Argentina
-    time: Apr. 2018 to Nov. 2018
+    time: Abr. 2018 a Nov. 2018
     intro: |
-      I built MVPs with Machine Learning technologies. During this time I participated in the following projects:
-    projects:
-      - name: 'Project: Face Recognition Totem (Jun 2018 – Oct 2018)'
-        content: |
-          Face recognition product to authenticate visitors that has scheduled meetings on Offices
-          buildings. Main tasks executed in the project:
-          - Integrate Face++ API with Local database
-          - Test and Integrate solution with hardware (Cams) through different stream
-          protocols.
-          My main achievement was to develop a test suite and tooling to track performance and quality of our solution.
-
-          **Technologies:** Face++ API, AWS, Python, C#, Django, dlib, OpenCV.
-      - name: 'Project: Face Recognition Watcher (Jun 2018 – Oct 2018)'
-        content: |
-          Face recognition product to watch for non trusted visitors on home buildings.
-          Main tasks executed in the project:
-          - Integrate Face++ API with Local database
-          - Test and Integrate solution with hardware (Cams) through different stream
-          protocols.
-          - Test and integrate with a security provider system
-          My main achievement was to design an API for third party integrations.
-
-          **Technologies:** Face++ API, AWS, Python, C#, Django, dlib, OpenCV.
-    
+      Desarrollé pruebas de concepto y tests para distintas tecnologías de machine learning.
+      **Tecnologías:** Face++ API, AWS, Python, C#, Django, dlib, OpenCV.
