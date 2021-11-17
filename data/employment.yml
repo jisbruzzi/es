@@ -5,6 +5,14 @@ source:
     time: Desde Ago. 2021
     intro: |
       Me desempeño como desarrollador web (frontend), pero también realizo tareas de backend.
+    projects: 
+      - name: 'Empresa de marketing de autos'
+        content: |
+          Trabajo para una startup de estados unidos que se encuentra en etapa de crecimiento sostenido y mejora paulatinamente su producto. Mis tareas son:
+          - Mejorar significativamente la calidad del código front-end
+          - Trabajo general en el backend
+          
+          **Tecnologías:** sqlalchemy, react, AWS, react-query, spring framework.
   - prof: Desarrollador independiente
     place: Freelance (Remoto)
     time: Sep. 2020 a Jul. 2021
